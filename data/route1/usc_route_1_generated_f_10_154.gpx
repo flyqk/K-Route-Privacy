@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="GPSBabel - http://www.gpsbabel.org" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <time>2017-04-23T08:27:59.036Z</time>
+    <bounds minlat="34.019200000" minlon="-118.289284100" maxlat="34.023650000" maxlon="-118.283630000"/>
+  </metadata>
+  <wpt lat="34.023646600" lon="-118.284016200">
+    <name>34.0236466,-118.2840162</name>
+    <cmt>848 W Jefferson Blvd, Los Angeles, CA 90089, USA</cmt>
+    <desc>848 W Jefferson Blvd, Los Angeles, CA 90089, USA</desc>
+  </wpt>
+  <wpt lat="34.019338200" lon="-118.289284100">
+    <name>34.0193382,-118.2892841</name>
+    <cmt>920 W 37th Pl, Los Angeles, CA 90007, USA</cmt>
+    <desc>920 W 37th Pl, Los Angeles, CA 90007, USA</desc>
+  </wpt>
+  <trk>
+    <name>848 W Jefferson Blvd - 800-898 W 34th St</name>
+    <desc>0.1 mi, 0:02</desc>
+    <trkseg>
+     <trkpt lat="34.02365" lon="-118.28402"/>
+     <trkpt lat="34.022856097" lon="-118.284358884"/>
+     <trkpt lat="34.023108081" lon="-118.285997629"/>
+     <trkpt lat="34.021686568" lon="-118.286888721"/>
+     <trkpt lat="34.02016123" lon="-118.287870803"/>
+     <trkpt lat="34.019310719" lon="-118.289098561"/>
+    </trkseg>
+  </trk>
+</gpx>
